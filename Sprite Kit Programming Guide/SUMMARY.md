@@ -1,7 +1,7 @@
 # Summary
 
 * [Sprite Kit相关](about_sprite_kit/README.md)
-   * [At a Glance](about_sprite_kit/at_a_glance)
+   * [At a Glance](about_sprite_kit/at_a_glance.md)
    * [How to Use This Document](about_sprite_kit/how_to_use_this_document)
    * [Prerequisites](about_sprite_kit/prerequisites)
    * [See Also](about_sprite_kit/see_also)
